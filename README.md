@@ -1,3 +1,4 @@
+<h1>Basic Information</h1>
 <b><h2>How to use</h2></b>
 - Simply input your Instagram username and password on the field.
 - Click on Get Cookie button.
