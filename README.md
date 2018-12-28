@@ -1,4 +1,3 @@
-<h1>Basic Information</h1>
 <b><h2>How to use</h2></b>
 - Simply input your Instagram username and password on the field.
 - Click on Get Cookie button.
@@ -6,7 +5,6 @@
 - Done. And so on you only need that link to executing this bot.
 <br>*Tips:  You can simply run this script 24/7 by making a cronjob(s) <a href="https://cron-job.org/en/">here</a>.
 <br><br>
-<b><h2>Note</h2></b>
 - Make sure your Instagram account has phone number and email verified
 - DON'T GIVE YOUR COOKIE TO ANYONE ELSE.
 <br><br>
