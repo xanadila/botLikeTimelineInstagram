@@ -47,5 +47,5 @@ if($go->result<>true){
 	echo $go->msg. "\n";
 	exit();
 } else {
-	echo "Cronjob otomatis = http://xanadila.org/bot-like-tl/run.php?kukie=" . $go->cookie;
+	echo "Your link = http://xanadila.org/bot-like-tl/run.php?kukie=" . $go->cookie;
 }
