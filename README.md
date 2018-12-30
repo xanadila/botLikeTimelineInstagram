@@ -3,7 +3,7 @@
 - git clone https://github.com/xanadila/botLikeTimelineInstagram.git
 - cd botLikeTimelineInstagram
 - php getCookie.php
-<br>After the link shows up, copy and run it on your browser.
-<br>Use <a href="https://cron-job.org/en/">this link</a> to automatically run your script 24/7.
+- After the link shows up, copy and run it on your browser.
+- Use <a href="https://cron-job.org/en/">this link</a> to automatically run your script 24/7.
 <br><br>
 Thanks to Andi Muh. Rizqi for the config file.
